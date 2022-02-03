@@ -11,5 +11,5 @@ Mathematical modeling, multi-agent systems, operations research, network economi
 I enjoy working in team, hearing innovative ideas, critical thinking and exploring new methodologies.  I'm looking forward to acquiring more hands-on experience and knowledge!
 
 ## HIGHLIGHTS OF MY WORK
-### Great Bicycle Boom 2020: User-interactive tableau viz
+### [Great Bicycle Boom 2020: User-interactive tableau viz](https://public.tableau.com/app/profile/tarannum.nisha/viz/BicycleBoomof2020_16437016619430/2020BicycleBoom)
 ![alt text](https://github.com/tnisha67/tnisha67/blob/main/GBB2020.png)
