@@ -12,4 +12,4 @@ I enjoy working in team, hearing innovative ideas, critical thinking and explori
 
 ## HIGHLIGHTS OF MY WORK
 ### Great Bicycle Boom 2020: User-interactive tableau viz
-![alt text] (https://github.com/tnisha67/tnisha67/blob/main/GBB2020.png)
+![alt text](https://github.com/tnisha67/tnisha67/blob/main/GBB2020.png)
