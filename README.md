@@ -9,3 +9,7 @@ Areas of interest:
 Mathematical modeling, multi-agent systems, operations research, network economics, game theory, market design, distributed optimization and fairness with applications in Cloud/edge computing, computer networking, Internet of Things, Wireless communication systems, smart grids, demand response, electric vehicles and renewable energy integration, to name a few.
 
 I enjoy working in team, hearing innovative ideas, critical thinking and exploring new methodologies.  I'm looking forward to acquiring more hands-on experience and knowledge!
+
+## HIGHLIGHTS OF MY WORK
+### Great Bicycle Boom 2020 (User-interactive tableau viz) (https://public.tableau.com/app/profile/tarannum.nisha/viz/BicycleBoomof2020_16437016619430/2020BicycleBoom)
+[https://github.com/tnisha67/tnisha67/blob/main/GBB2020.png]
