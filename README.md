@@ -20,3 +20,15 @@ ANN Structure
 ![alt text](https://github.com/tnisha67/Automatic-modulation-classification/blob/main/ANN%20Architecture.JPG)
 CNN Structure
 ![alt text](https://github.com/tnisha67/Automatic-modulation-classification/blob/main/CNN%20Architecture.JPG)
+
+
+### 3. [Marker based Augmented Reality](https://github.com/tnisha67/Comprehensive-study-Augmented-Reality)
+![alt text](https://github.com/tnisha67/Comprehensive-study-Augmented-Reality/blob/main/Sphere_augmented_on_marker.png)
+
+### 4. [Joint Resource Management and Pricing in Edge Computing](https://github.com/tnisha67/Masters-Thesis)
+**Problem Formulation**:  We formulate the interaction between the platform (i.e., the leader) and the services (i.e., the followers) as a bilevel program which consists of an  upper-level optimization problem and *K* lower-level  problems, each for one service. The platform solves the upper-level problem to maximize its profit, and then announces the resource prices and service placement decisions to the services.
+![alt text](https://github.com/tnisha67/Masters-Thesis/blob/main/Problem%20formulation.JPG)
+**Comparison between dynamic, flat, and average pricing schemes**: The dynamic pricing scheme (Dyn) is the proposed model where the resource prices at the edge nodes (ENs) can be different to balance supply and demand. In the flat pricing scheme (Flat), we solve the same bilevel model with an extra constraint in the leader problem that enforces the resource prices at all the ENs to be equal. In the average pricing scheme (Avg), the unit resource prices at the ENs are the same, which are simply set to the average value in  the set of possible prices.
+![alt text](https://github.com/tnisha67/Masters-Thesis/blob/main/Dyn%20vs%20other%20pricing.JPG)
+
+
