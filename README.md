@@ -16,5 +16,7 @@ I enjoy working in team, hearing innovative ideas, critical thinking and explori
 
 
 ### [Automatic Classification of Wireless Communication Signals](https://github.com/tnisha67/Automatic-modulation-classification)
+ANN Architecture
 ![alt text](https://github.com/tnisha67/Automatic-modulation-classification/blob/main/ANN%20Architecture.JPG)
+CNN Architecture
 ![alt text](https://github.com/tnisha67/Automatic-modulation-classification/blob/main/CNN%20Architecture.JPG)
