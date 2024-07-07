@@ -1,14 +1,12 @@
 ## ABOUT ME
-Completed Master of Applied Science (M.A.Sc.) degree with specialization in Network Economics and Optimization of Cloud/Edge Computing Networks from The University of British Columbia.
+Experienced Data Scientist with a knack for blending statistical modeling with business analytics to drive impactful insights. Completed Master of Applied Science (M.A.Sc.) degree with specialization in Network Economics and Optimization of Cloud/Edge Computing Networks from The University of British Columbia.
 
-I love to dig into the applications of Mathematical Optimization algorithms in our daily lives. During my research, I worked on addressing critical issues of joint pricing and service placement problem in edge computing resulting from the heterogeneity and limited capacities of edge resources. 
-
-To accomplish my research objectives,  I majorly focused on bilevel optimization framework and customized column-and-constraint generation method from the adaptive robust optimization literature to solve the integer bi-level model. 
+Proficient in multiple coding platforms including Python, SQL and experienced in predictive modeling, time series forecasting, clustering, and more. I have also collaborated with front-end teams on crafting visually compelling dashboards using tools like Tableau and dash plotly, empowering stakeholders with actionable insights for strategic planning.
 
 Areas of interest: 
-Mathematical modeling, multi-agent systems, operations research, network economics, game theory, market design, distributed optimization and fairness with applications in Cloud/edge computing, computer networking, Internet of Things, Wireless communication systems, smart grids, demand response, electric vehicles and renewable energy integration, to name a few.
+Mathematical modeling, multi-agent systems, operations research, data processing, data analysis, data visualization, network economics, game theory, market design, AI/ML modeling and more.
 
-I enjoy working in team, hearing innovative ideas, critical thinking and exploring new methodologies.  I'm looking forward to acquiring more hands-on experience and knowledge!
+I enjoy working in team, hearing innovative ideas, critical thinking and exploring new methodologies!
 
 ## HIGHLIGHTS OF MY WORK
 
